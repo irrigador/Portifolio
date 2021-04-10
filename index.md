@@ -1,7 +1,7 @@
 ## Projeto Aircnc
-Projeto desenvolvido utilizando frameworks como [b]NodeJS[/b], ReactJS e React Native. Além de outras tecnologias como MongoDB Atlas e MongoDB compass para manipulção do banco de dados e Insominia como ferramenta de testes
+Projeto desenvolvido utilizando frameworks como NodeJS, ReactJS e React Native. Além de outras tecnologias como MongoDB Atlas e MongoDB compass para manipulção do banco de dados e Insominia como ferramenta de testes
 
-### Markdown
+### Págnas da aplicação
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
