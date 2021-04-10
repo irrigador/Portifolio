@@ -3,8 +3,7 @@ Projeto desenvolvido utilizando frameworks como NodeJS, ReactJS e React Native. 
 
 ### Págnas da aplicação
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+https://github.com/irrigador/Portifolio/blob/main/imagem1.png?raw=true
 ```markdown
 Syntax highlighted code block
 
